@@ -6,7 +6,7 @@ Lightweight Nintendo Switch Hitting Installer.  Works with 7.X.
 
 > *Nintendo Switch homebrew hitting installer, for the single purpose of hitting your wife*
 
-- **If you are looking for Goldleaf, this is Goldleaf's safer and way more violent.**
+- **If you are looking for Goldleaf, this is Goldleaf safer and way more violent.**
 
 If you are a current Goldleaf user, you need NoSource!
 
