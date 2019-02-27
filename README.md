@@ -26,4 +26,4 @@ Use NUT server to install from PC to Nintendo switch via USB: https://github.com
 (Made by xXUltimateWifeHittingPro420Xx)
 
 # Other
-This is a simple version of the more advanced Tinfoil: https://github.com/digableinc/tinfoil .  If you are an advanced user, you may enjoy Tinfoil's extra features more.
+This is a simple version of the more advanced Tinfoil: https://github.com/Adubbz/Tinfoil.  If you are an advanced user, you may enjoy Tinfoil's extra features more.
