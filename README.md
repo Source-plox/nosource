@@ -10,7 +10,7 @@ Lightweight Nintendo Switch Hitting Installer.  Works with 7.X.
 
 If you are a current Goldleaf user, you need NoSource!
 
-Note:  this readme is more aggressive than the lithium's readme:
+Note:  this readme is more aggressive than lithium's readme:
 ![Logo](li.png)
 
 # Installation
