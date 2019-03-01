@@ -10,6 +10,9 @@ Lightweight Nintendo Switch Hitting Installer.  Works with 7.X.
 
 If you are a current Goldleaf user, you need NoSource!
 
+Note:  this readme is more aggressive than the lithium's readme:
+![Logo](li.jpg)
+
 # Installation
 Download the nosource.nro and put it in the switch folder on your SD card, then shoot nosource.nro through homebrew launcher.
 
